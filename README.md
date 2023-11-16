@@ -24,5 +24,4 @@ as bibliotecas `rss` e `open-uri` para recuperar e analisar os dados dos feeds R
 
 ## Example RSS Feed URLs
 - The New York Times (technology): https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
-- National Geographic (latest news): http://feeds.nationalgeographic.com/ng/News/News_Main
 - NASA Breaking News: https://www.nasa.gov/rss/dyn/breaking_news.rss
