@@ -1,0 +1,24 @@
+GEM
+  specs:
+    date (3.3.4)
+    open-uri (0.2.0)
+      stringio
+      time
+      uri
+    rexml (3.2.6)
+    rss (0.2.9)
+      rexml
+    stringio (3.0.9)
+    time (0.2.2)
+      date
+    uri (0.11.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  open-uri
+  rss
+
+BUNDLED WITH
+   2.3.15
