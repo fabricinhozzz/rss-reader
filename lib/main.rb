@@ -26,11 +26,4 @@ end
 print "coloque aqui a URL: "
 feed_url = gets.chomp
 
-=begin
-    Exemplos de feeds com URLs RSS
-        The New York Times (technology): https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
-        National Geographic (latest news): http://feeds.nationalgeographic.com/ng/News/News_Main
-        NASA Breaking News: https://www.nasa.gov/rss/dyn/breaking_news.rss
-=end
-
 fetch_display(feed_url)
