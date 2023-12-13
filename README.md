@@ -19,7 +19,7 @@ as bibliotecas `rss` e `open-uri` para recuperar e analisar os dados dos feeds R
 
 
 ## Code Structure
-- `lib`: Diretório contento o arquivo principal do script.
+- `/lib`: Diretório contento o arquivo principal do script.
 - `Gemfile` e `Gemfile.lock`: Listam as dependências do projeto.
 
 ## Example RSS Feed URLs
